@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>About Elmo</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>About Elmo</h1>
+    <p>Elmo is the best! He is a fun loving character from the hit TV show Sesame Street!</p>
+    
+    <!-- Biography Section -->
+    <section>
+      <h2>Biography</h2>
+      <p>Elmo is a three-and-a-half-year-old furry red monster with an orange nose. He loves to explore and learn about the world!</p>
+    </section>
+    
+    <!-- Interests Section -->
+    <section>
+      <h2>Interests</h2>
+      <p>Elmo loves playing with friends, singing songs, and laughing."</p>
+    </section>
+    
+    <!-- Friends Section -->
+    <section>
+      <h2>Friends</h2>
+      <p>Elmo has many friends, including Big Bird, Cookie Monster, and Abby Cad
